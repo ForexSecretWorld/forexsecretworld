@@ -314,6 +314,12 @@ p{
 .col-memopdf img{
                   width: 100%; 
                  }
+.col-memopdf p{
+                margin-top: 10px;
+               }
+.col-memopdf a{
+                color: #2596be;
+               }
 .col-memopdf h4{
                 margin-top: 20px; 
                 }
